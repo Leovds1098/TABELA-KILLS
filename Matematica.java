@@ -72,8 +72,9 @@ public class Matematica {
                   sc.close();
                   
                   System.out.println("Fim do Campeonato");
+                  System.out.println("Total de pontos do Campeonato:\n");
        }
        }
-    
+ 
     
 
